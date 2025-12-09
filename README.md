@@ -19,8 +19,8 @@ I'm **AcetylYuki(乙酰雪)**, a *neko* who is into computer science~
 - Learning **C/C++**, **Rust**, **React**.
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=achyuki&show_icons=true&theme=date_night&border_radius=20)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=achyuki&layout=compact&theme=date_night&border_radius=20)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=achyuki&show_icons=true&theme=date_night&border_radius=20)
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=achyuki&layout=compact&theme=date_night&border_radius=20)
 
 ### 📫 How to reach me
 
