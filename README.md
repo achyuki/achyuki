@@ -4,7 +4,7 @@ I'm **AcetylYuki(乙酰雪)**, a *neko* who is into computer science~
 
 - 👋 You can call me **Yukki** or **七雪**.
 - 🌏 Mainly use **Chinese** and **English**.
-- 📚 Currently a senior high school student.
+- 📚 Currently a college freshman.
 - ✨ Interested in a variety of things!
 
 ### Technology Stack
