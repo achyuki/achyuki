@@ -13,10 +13,10 @@ I'm **AcetylYuki(乙酰雪)**, a *neko* who is into computer science~
 <code><img height="20" alt="kotlin" src="https://skillicons.dev/icons?i=kotlin"> Kotlin</code>
 <code><img height="20" alt="java" src="https://skillicons.dev/icons?i=java"> Java</code>
 <code><img height="20" alt="typescript" src="https://skillicons.dev/icons?i=ts"> TypeScript</code>
-<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=js"> JavaScript</code>
 <code><img height="20" alt="lua" src="https://skillicons.dev/icons?i=lua"> Lua</code>
 
-- Learning **C/C++**, **Rust**, **React**.
+- Learning **C/C++**, **Rust**
+- **NixOS** user
 
 ### GitHub Stats
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=achyuki&show_icons=true&theme=date_night&border_radius=20)
